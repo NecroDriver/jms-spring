@@ -18,6 +18,8 @@
       <configuration>
         <fileset id="fileset" name="Producer" removed="false">
           <file>file://$MODULE_DIR$/src/main/resources/producer.xml</file>
+          <file>file://$MODULE_DIR$/src/main/resources/common.xml</file>
+          <file>file://$MODULE_DIR$/src/main/resources/comsumer.xml</file>
         </fileset>
       </configuration>
     </facet>
